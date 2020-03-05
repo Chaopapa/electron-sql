@@ -1,0 +1,17 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "watch": "nodemon --exec 'electron .'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.0.2",
+    "electron-window-state": "^5.0.3",
+    "mysql": "^2.18.1"
+  }
+}
